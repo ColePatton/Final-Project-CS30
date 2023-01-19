@@ -1,0 +1,2 @@
+Some of the earlier versions of the game may not be runnable due to variable name changes in the images.
+As well as othe pieces of code that may not work as intended.
